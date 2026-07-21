@@ -40,12 +40,6 @@ Example:
 
 # Installation
 
-## NPM
-
-```bash
-npm install gjs-plugin-ckeditor5
-```
-
 ## Browser
 
 ```html
