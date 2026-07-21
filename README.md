@@ -287,20 +287,6 @@ Leave empty when using a GPL build.
 
 ---
 
-## Custom Plugins
-
-Any plugin included in your CKEditor build can be configured.
-
-```javascript
-options: {
-    myCustomPlugin: {
-        // plugin configuration
-    }
-}
-```
-
----
-
 # Supported Toolbar Items
 
 Depending on your CKEditor build, you can use toolbar items such as:
